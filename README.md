@@ -1,5 +1,6 @@
 # Workday Hourly Planner
 
+![Schedule Screenshot](./Schedule_Screenshot.png)
 
 ## Purpose
 
@@ -15,6 +16,7 @@ To create an hourly planner for the workday, where the entries for the hours per
 
  ## Website
 
+https://alexdefrese.github.io/Defrese-Schedule-Planner/
 
 
  ## Contribution
